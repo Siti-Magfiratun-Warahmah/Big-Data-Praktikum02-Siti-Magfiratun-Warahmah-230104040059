@@ -1,5 +1,3 @@
----
-
 # PRAKTIKUM 2 – Batch Data Ingestion & Processing with Spark
 
 **Proyek:** BIGDATA-SPARK-230104040059
